@@ -1,5 +1,5 @@
 # Sort_practice_python
 This is my sort of practice:
-> Selection sort
-> Merge sort
+> Selection sort\n
+> Merge sort\n
 > Quick sort
